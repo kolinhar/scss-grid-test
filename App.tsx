@@ -78,12 +78,12 @@ export default function App() {
             </header>
 
             <section className="grid content rows-5-content cols-10">
-              <div className="width-5 sm-width-10 height-6 sm-height-3 flex">
+              <div className="elt width-5 sm-width-10 height-6 sm-height-3 flex">
                 <div className="elt flex-1 min-width-75">Je suis flexbox 1</div>
                 <div className="elt flex-1 min-width-75">Je suis flexbox 2</div>
                 <div className="elt flex-1 min-width-75">Je suis flexbox 3</div>
               </div>
-              <div className="width-5 sm-width-10 height-6 sm-height-3 flex">
+              <div className="elt width-5 sm-width-10 height-6 sm-height-3 flex">
                 <div className="elt flex-1 min-width-75">Je suis flexbox 4</div>
                 <div className="elt flex-1 min-width-75">Je suis flexbox 5</div>
                 <div className="elt flex-1 min-width-75">Je suis flexbox 6</div>
