@@ -1,0 +1,39 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+h1,
+p {
+  font-family: Lato;
+}
+
+main {
+  padding: 1rem;
+}
+
+header {
+  border: 2px solid greenyellow;
+}
+
+.content {
+  border: 2px solid blueviolet;
+  overflow: hidden auto;
+}
+
+footer {
+  border: 2px solid red;
+}
+
+.elt {
+  border: 1px solid grey;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 5px;
+  overflow: hidden auto;
+}
+
+.txt-center {
+  text-align: center;
+}
